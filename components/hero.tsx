@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, cupiditate accus
 <div className='flex space-x-3 items-center my-6 w-full xl:my-10  '>
 
 
-    <div className='flex space-x-1 sm:space-x-2'>
+    <div className='flex  sm:space-x-2'>
    <img className='' src="/star.svg" />
    <img className='' src="/star.svg" />
    <img className='' src="/star.svg" />
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, cupiditate accus
 
 
 <div className='flex  items-baseline mt-1 tracking-wide '>
-    <p className='font-bold text-lg'>198k</p>
+    <p className='font-bold text-sm sm:text-lg'>198k</p>
     <p className='font-normal text-sm mx-1'>Excellent </p>
     <p className='font-normal text-sm'>Reviews </p>
     </div>
