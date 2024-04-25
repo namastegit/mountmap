@@ -5,7 +5,7 @@ export default function Hero_04() {
     <section className='flex lg:w-12/12'>
         <div className='lg:w-5/12'>
             <div className=' hidden lg:flex'>
-                <img src="/phone.png" alt="" className=' rotate-12 overflow-hidden' />
+                <img src="/phone.png" alt="" className=' rotate-12 overflow-hidden ' />
             </div>
         </div>
         <div className='lg:w-7/12 p-8 '>
