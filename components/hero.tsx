@@ -12,10 +12,10 @@ function Hero() {
 <div className='my-7 text-lg sm:text-sm tracking-wide font-light xl:my-10'>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, cupiditate accusantium a ea quam natus corrupti ullam facere nihil, unde provident placeat 
 </div>
-<div className='flex  items-center my-6 w-full xl:my-10  '>
+<div className='flex space-x-2 items-center my-6 w-full xl:my-10  '>
 
 
-    <div className='flex space-x-2 sm:space-x-2'>
+    <div className='flex sm:space-x-2'>
    <img className='' src="/star.svg" />
    <img className='' src="/star.svg" />
    <img className='' src="/star.svg" />
